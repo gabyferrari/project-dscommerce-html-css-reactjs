@@ -99,6 +99,6 @@ Projeto desenvolvido como parte da minha jornada de aprendizado em desenvolvimen
 
 ## 🔗 Repositório
 
-[GitHub – DSCommerce](https://github.com/gabyferrari/project-dscommerce-html-css-reactjs)
+[GitHub – DSCommerce HTML-CSS](https://github.com/gabyferrari/project-dscommerce-html-css-reactjs)
 
 https://www.linkedin.com/in/gabriellyferrari/
